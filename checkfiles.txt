@@ -1,0 +1,10 @@
+.
+./kvs.c
+./hash.c
+./listdir.c
+./systemcommand.c
+./checkfiles.txt
+./a.out
+./main.c
+./hashmap.c
+./regex.c
